@@ -1,0 +1,8 @@
+{
+  "name": "Idetools Iklan Produk Generator",
+  "description": "Sebuah Tools untuk para UMKM, Affiliator, dan Owner Bisnis",
+  "requestFramePermissions": [],
+  "executionEnvironments": [
+    "aistudio"
+  ]
+}
